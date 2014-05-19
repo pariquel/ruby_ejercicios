@@ -1,1 +1,2 @@
-puts "Hola"
+puts "Holas"
+puts "Mundo"
